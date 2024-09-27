@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/f434b8b0-c7fb-40b0-8926-31bef9d6e54e
+
 **Description of the Python Code for Credit Card Fraud Detection**
 
 This Python script focuses on the detection of fraudulent transactions using a credit card dataset. It employs machine learning techniques, particularly a Random Forest Classifier, to identify potential fraud. Below is a detailed explanation of each part of the code.
